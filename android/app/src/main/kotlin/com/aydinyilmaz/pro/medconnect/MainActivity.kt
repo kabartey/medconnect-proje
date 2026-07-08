@@ -1,4 +1,4 @@
-package com.aydinyilmaz.medconnect
+package com.aydinyilmaz.pro.medconnect
 
 import io.flutter.embedding.android.FlutterActivity
 
