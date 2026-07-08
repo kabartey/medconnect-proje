@@ -1,4 +1,4 @@
-package com.example.medconnect
+package com.aydinyilmaz.medconnect
 
 import io.flutter.embedding.android.FlutterActivity
 
